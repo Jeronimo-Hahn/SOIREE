@@ -1,6 +1,6 @@
 git lfs install
 git lfs track "*.zip"
 git add .gitattributes
-git add SOIREEzip
+git add SOIREE.zip
 git commit -m "Agrego archivo grande con LFS"
 git push origin main
