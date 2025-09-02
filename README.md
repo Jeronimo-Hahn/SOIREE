@@ -1,4 +1,4 @@
-Thanks for entering the github repository for SOIREE.
+Thanks for the interest in downloading SOIREE.
 
 This project was created in Godot Engine 4.4, using GDScript as the way to code the game.
 This project provides a build in rule book for the games in it, making it easier to understand each game mode.
